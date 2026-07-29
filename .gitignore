@@ -1,4 +1,5 @@
 node_modules/
+*.local.cfg
 last-state.json
 events.jsonl
 glyph-scan.jsonl
