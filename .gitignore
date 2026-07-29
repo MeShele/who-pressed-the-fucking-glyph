@@ -1,3 +1,5 @@
 node_modules/
 last-state.json
+events.jsonl
+glyph-scan.jsonl
 .DS_Store
